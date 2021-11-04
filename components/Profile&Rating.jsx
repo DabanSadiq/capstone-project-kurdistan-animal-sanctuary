@@ -7,7 +7,7 @@ const ratingChanged = () => {};
 const profileRating = ({ name, pic, rating }) => {
   const { t } = useTranslation("userProfile");
   return (
-    <div className="flex flex-wrap md:flex-nowrap  py-14  font-Quicksand w-full">
+    <div className="flex flex-wrap md:flex-nowrap  py-12  font-Quicksand w-full">
       <div className="flex flex-row ">
         <div className="w-40 md:w-72 h-40 md:h-72 rounded-full ">
           <img
