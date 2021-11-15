@@ -14,7 +14,7 @@ export default function Home() {
         <title>{t("animalProfile.title")}</title>
       </head>
       <Navbar />
-
+//safsaf
       <AnimalProfile />
 
       <Footer />
